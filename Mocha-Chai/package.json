@@ -10,7 +10,7 @@
     "node": "^16.4.1"
   },
   "devDependencies": {
-    "mocha": "^9.0.2"
+    "mocha": "^11.8.0"
   },
   "scripts": {
     "test": "mocha"
